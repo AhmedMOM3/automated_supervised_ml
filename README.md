@@ -3,6 +3,9 @@
 ## Overview
 This Streamlit application provides an end-to-end machine learning workflow that allows users to upload, preprocess, visualize, and train machine learning models with minimal coding required.
 
+## App link
+https://automated-supervised-ml.streamlit.app
+
 ## Features
 
 ### Data Upload
