@@ -49,7 +49,7 @@ def visual(df,keys,graph_keys):
 
 
 st.markdown("<h1 style='text-align: center;'>Automated Supervised ML</h1>", unsafe_allow_html=True)
-link='''https://github.com/AhmedMOM3/automated-supervised-ml'''
+link='''https://github.com/AhmedMOM3/automated_supervised_ml'''
 
 with st.expander('About this app'):
     st.write('This app helps you to perform EDA on your data, show visualization then train differient model and comparing between them using training report supported with some model visualization.')
